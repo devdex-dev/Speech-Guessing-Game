@@ -1,2 +1,2 @@
 # Speech-Guessing-Game
-Simple Python Speech Guessig Game
+Simple Python Speech Guessing Game
